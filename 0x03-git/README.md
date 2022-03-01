@@ -1,1 +1,1 @@
-this is readme for 0x03-git
+this is awesome readme for 0x03-git
